@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+    color: #6887c7;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #3a69b9;
+    transition: .5s;
+}
+
+
+._active {
+    font-weight: bold;
+    text-decoration: none;
+    color: #46699c;
+}
